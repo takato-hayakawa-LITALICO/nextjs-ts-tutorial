@@ -1,7 +1,6 @@
 import * as React from "react";
 import { NextStatelessComponent } from "next";
 import Link from "next/link";
-import Header from "../components/Header";
 import Layout from "../components/Layout";
 
 interface PostLinkProps {
